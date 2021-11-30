@@ -64,6 +64,7 @@ public class Main {
         return false;
     }
 
+
     static void strike_num_counting (int[] user){
        strike_cnt =0;
        for (int i=0; i<user.length; i++) {
